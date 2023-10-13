@@ -1,4 +1,4 @@
 def mathproc(a, b):
     return a + b
 
-print(mathproc(1,4))
+print(mathproc(1,5))
